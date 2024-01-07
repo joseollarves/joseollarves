@@ -4,8 +4,15 @@
 
 ## Work in progress...😊
 
+## Language Stack
 
-## My Github Statistics 😎
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,qt,flask,html,css,tailwind,js,ts,nodejs,express,vue,nuxtjs,php,laravel,vite,mysql,postgres,prisma,supabase,vercel,gcp,vscode,vim,neovim,git,github,)](https://skillicons.dev" />
+  </a>
+</p>
+
+## Github Statistics 😎
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseollarves&show_icons=true&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseollarves&theme=github_dark"/>
