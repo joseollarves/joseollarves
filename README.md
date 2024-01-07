@@ -1,11 +1,8 @@
-<div align="center">
-<h1 align="center">print(Hi, i'm <a href="https://github.com/joseollarves">José Ollarves</a> 🐍)</h1>
-</div>
+<h1 align="center">print(Hi, i'm José Ollarves 🐍)</h1>
 
-![Banner](https://github.com/joseollarves/joseollarves/assets/107653281/762d8138-4e25-4a84-8d41-0ba147abdc56)
+<img alt="banner" src="https://github.com/joseollarves/joseollarves/assets/107653281/dabad1b3-3986-4d7f-8a63-e80e45517e68"/>
 
 ## Work in progress...😊
-
 
 
 ## My Github Statistics 😎
