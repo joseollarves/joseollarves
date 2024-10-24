@@ -5,7 +5,6 @@
   </body>
 </html>
 
-## Work in progress...😊
 
 ## Language Stack
 
